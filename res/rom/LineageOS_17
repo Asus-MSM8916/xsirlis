@@ -1,0 +1,5 @@
+ROM
+10
+git://github.com/LineageOS/android.git
+lineage-17.1
+https://download.lineageos.org/api/v1/{device}/{type}/{incr}

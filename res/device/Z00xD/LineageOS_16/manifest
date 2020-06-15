@@ -1,0 +1,7 @@
+https://github.com/Asus-MSM8916/android_device_asus_Z00xD.git                   lineage-16.0    device/asus/Z00xD
+https://github.com/Asus-MSM8916/android_device_asus_msm8916-common.git          lineage-16.0    device/asus/msm8916-common
+https://github.com/Asus-MSM8916/android_kernel_asus_msm8916.git                 9.x-staging     kernel/asus/msm8916
+https://github.com/Asus-MSM8916/android_vendor_asus.git                         9.x             vendor/asus
+https://github.com/kdrag0n/aarch64-elf-gcc.git                                  9.x             prebuilts/gcc/linux-x86/aarch64/aarch64-elf
+https://github.com/LineageOS/android_packages_apps_FlipFlap.git                 lineage-16.0    packages/apps/FlipFlap
+https://github.com/LineageOS/android_packages_resources_devicesettings.git      lineage-16.0    packages/resources/devicesettings
